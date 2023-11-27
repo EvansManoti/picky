@@ -7,7 +7,7 @@ def clocky(hour, minute, period):
     return result
 
 
-print(clocky(8, 30, 'am'))
-print(clocky(11, 45, 'pm'))  
-print(clocky(1, 37, 'am')) 
-print(clocky(12, 12, 'pm')) 
+print(clocky(8, 30, 'am'))  # printing of output
+print(clocky(11, 45, 'pm'))  # printing of output
+print(clocky(1, 37, 'am'))  # printing of output
+print(clocky(12, 12, 'pm')) # printing of output

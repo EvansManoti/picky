@@ -1,8 +1,8 @@
 def clocky(hour, minute, period):
-
+    # calculating 
     hour = (hour % 12 + (period.lower() == 'pm') * 12) % 24
 
-  
+    # the appearance of output
     result = "{:02d}{:02d}".format(hour, minute)
     return result
 

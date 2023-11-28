@@ -1,8 +1,8 @@
 # HOW THE SYSTEM WORKS
 
 ## CLOCKYVET
-The system enables you to input your time in 12-hour-clock-system and return the output in 24-hour-clock-system regadless if it is am or pm.
+The system enables you to input your time in a 12-hour-clock-system and return the output in a 24-hour-clock-system regardless if it is am or pm.
 
 ## TWOPY
 This one enables you to get the output of your data if you enter two positive numbers and one negative you get a return statement that is 'true'
-if you input three positive numbers you recieve a false statement if you have one positive number one negative and a zero you get a statement which is a 'false' and three negative numbers your get a 'false'
+if you input three positive numbers you receive a false statement if you have one positive number one negative and a zero you get a statement that is a 'false' and for three negative numbers you get a 'false'
